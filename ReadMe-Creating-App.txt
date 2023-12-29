@@ -11,3 +11,6 @@ npm run dev //this will create the app and provide a local host server link
 
 
 //the app folder (probably could also be in src) contains the page.js that is the file that you'll see on the web
+
+
+//install an extension called "simple react snippet" -> verified one
