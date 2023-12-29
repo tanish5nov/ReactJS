@@ -8,3 +8,6 @@ npx create-next-app // this will create a new app folder as per the specifed pro
 //run the following command in terminal
 
 npm run dev //this will create the app and provide a local host server link
+
+
+//the app folder (probably could also be in src) contains the page.js that is the file that you'll see on the web
